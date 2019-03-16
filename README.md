@@ -10,9 +10,10 @@ You are only permitted to have *one* Commander. Commanders with Partner may be u
 
 ## Banlist
 
-_Correct as of 2019-03-13_ 
+_Correct as of 2019-03-14_ 
 
 - [Standard Commander ban list](https://scryfall.com/search?q=banned%3Aedh&order=name&as=grid&unique=cards)
+- Commanders with Keyword: "Partner" (You may play one of the partner commanders, but you may not have both in the command zone)
 
 plus
 
@@ -20,5 +21,6 @@ plus
 - [Demonic Tutor](https://scryfall.com/card/lea/104/demonic-tutor)
 - [Empty the Warrens](https://scryfall.com/card/dds/15/empty-the-warrens)
 - [Frantic Search](https://scryfall.com/card/uma/57/frantic-search)
+- [Library of Alexandria](https://scryfall.com/card/vma/303/library-of-alexandria)
 - [Skullclamp](https://scryfall.com/card/c17/222/skullclamp)
 - [Tendrils of Agony](https://scryfall.com/card/scg/75/tendrils-of-agony)
