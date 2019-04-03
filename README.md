@@ -9,10 +9,10 @@ This [Scryfall search query](https://scryfall.com/search?q=f%3Aedh+r%3C%3Du+-%28
 
 ## Banlist
 
-_Correct as of 2019-03-14_ 
+_Correct as of 2019-04-03_ 
 
 - [Standard Commander ban list](https://scryfall.com/search?q=banned%3Aedh&order=name&as=grid&unique=cards)
-- Multiple Commanders with the Keyword "Partner" You may still play cards with the "Partner" Keyword, however only one card with the "Partner" Keyword may be in your command zone
+- Multiple Commanders with the Keyword "Partner"; you may still play cards with the "Partner" Keyword, however only one card with the "Partner" Keyword may be in your command zone.
 
 plus
 
