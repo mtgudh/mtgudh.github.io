@@ -6,6 +6,11 @@ UDH is a Commander format where your Commander can be any rarity, but the rest o
 
 This [Scryfall search query](https://scryfall.com/search?q=f%3Aedh+r%3C%3Du+-%28%22Cranial+Plating%22+or+%22Demonic+Tutor%22+or+%22Empty+the+Warrens%22+or+%22Frantic+Search%22+or+%22Skullclamp%22+or+%22Tendrils+of+Agony%22%29) contains all the legal cards in the format.
 
+Rarities used from the following sets are excluded:
+- [Renaissance](https://scryfall.com/sets/ren?as=grid&order=name)
+- [Tempest Remastered](https://scryfall.com/sets/tpr?as=grid&order=name)
+- [Anthologies](https://scryfall.com/sets/ath?as=grid&order=name)
+_The rarity of a card is defined as the lowest rarity among rarities present on the Gatherer._
 
 ## Banlist
 
