@@ -10,6 +10,7 @@ Rarities used from the following sets are excluded:
 - [Renaissance](https://scryfall.com/sets/ren?as=grid&order=name) / [Rinascimento](https://scryfall.com/sets/rin?as=grid&order=name)
 - [Tempest Remastered](https://scryfall.com/sets/tpr?as=grid&order=name)
 - [Anthologies](https://scryfall.com/sets/ath?as=grid&order=name)
+
 _The rarity of a card is defined as the lowest rarity among rarities present on the Gatherer._
 
 ## Banlist
